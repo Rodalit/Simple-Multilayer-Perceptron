@@ -21,4 +21,4 @@ The repository has examples of using the model to classify iris and breast cance
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request."# Simple-Multilayer-Perceptron-SimpleMLP-" 
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
