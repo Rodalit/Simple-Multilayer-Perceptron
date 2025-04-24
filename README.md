@@ -8,7 +8,7 @@ To use SimpleMLP, you need to have Python and NumPy installed. You can install N
 pip install numpy
 ```
 
-The repository has examples of using the model to classify iris and breast cancer
+The repository has examples of using the model to classify iris and breast cancer.
 
 ## Model Parameters
 
@@ -21,4 +21,4 @@ The repository has examples of using the model to classify iris and breast cance
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request."# Simple-Multilayer-Perceptron-SimpleMLP-" 
